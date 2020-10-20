@@ -115,7 +115,13 @@
           ,
       {
         "url": "https://github.com/Simonm952/images-json/blob/main/DSC_0750.JPG?raw=true?raw=true",
-        "id": "20",
+        "id": "21",
+        "isFavorite": false
+    }
+         ,
+      {
+        "url": "https://github.com/Simonm952/images-json/blob/main/DSC_0979.JPG?raw=true?raw=true",
+        "id": "21",
         "isFavorite": false
     }
 ]
